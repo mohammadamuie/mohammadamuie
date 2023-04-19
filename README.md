@@ -50,7 +50,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/dotnet.png" width="48" height="48" alt=".NET" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="48" height="48" alt=".NET" />
       </a>
       <br>.NET
     </td>
