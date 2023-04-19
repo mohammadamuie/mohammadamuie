@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img align='right' src='https://i.gifer.com/origin/c6/c60dc89b490b33b3041d64e0bfc34d48_w200.gif' width='200"'>
+<img align='right' src='68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f63362f63363064633839623439306233336233303431643634653062666333346434385f773230302e676966.gif' width='200"'>
 
 <h2 >HELLO WORLD :)</h2>
 
@@ -13,7 +13,7 @@
 
 &nbsp;
 <br>
-<img align="left" src="https://orhun.dev/img/crow.png">
+<img align="left" src="68747470733a2f2f6f7268756e2e6465762f696d672f63726f772e706e67.png">
 
 ### Hey!
 
