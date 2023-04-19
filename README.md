@@ -44,9 +44,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" width="48" height="48" alt="JavaScript" />
+        <img src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" width="48" height="48" alt="Flutter" />
       </a>
-      <br>JavaScript
+      <br>Flutter
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
