@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2 >HELLO WORLD :) <img src="https://i.gifer.com/origin/c6/c60dc89b490b33b3041d64e0bfc34d48_w200.gif" width="24px"></h2>
+<h2 >HELLO WORLD :) <img src="https://i.gifer.com/origin/c6/c60dc89b490b33b3041d64e0bfc34d48_w200.gif" width="50px"></h2>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mohammadamuie)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amuie-618300273/)
