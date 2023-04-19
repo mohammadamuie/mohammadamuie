@@ -3,7 +3,6 @@
 
 <img align='right' src='https://i.gifer.com/origin/c6/c60dc89b490b33b3041d64e0bfc34d48_w200.gif' width='200"'>
 
-<img src="https://i.gifer.com/origin/c6/c60dc89b490b33b3041d64e0bfc34d48_w200.gif" width="100px">
 <h2 >HELLO WORLD :)</h2>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mohammadamuie)
