@@ -67,14 +67,6 @@
       <br>Sass
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-  
-  </tr>
+ 
 </table>
 
