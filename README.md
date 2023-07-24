@@ -90,8 +90,7 @@ I'm someone who is passionate about **ASP.NET CORE** and likes to **write code**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2047%20mins-blue)
 
-![Profile Views]([http://img.shields.io/badge/Profile%20Views-215-blue](https://komarev.com/ghpvc/?username=mohammadamuie))
-
+![](https://komarev.com/ghpvc/?username=mohammadamuie&style=flat-square)
 **I'm a Night 🦉** 
 
 ```text
