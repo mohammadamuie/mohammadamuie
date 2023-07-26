@@ -18,7 +18,6 @@
 
 I'm someone who is passionate about **ASP.NET CORE** and likes to **write code**.
 
-[![pgp](https://img.shields.io/badge/pgp-0xF83424824B3E4B90-313131?style=flat&labelColor=545454&color=313131)](https://github.com/mohammadamuie) 
 
 <br>
 <h1> ASP.NET CORE... C#</h1>
