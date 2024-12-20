@@ -27,7 +27,7 @@ I'm someone who is passionate about **ASP.NET CORE** and likes to **write code**
 
 ###
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="/WORM.svg" alt="Snake animation" />
 
 ###
 
