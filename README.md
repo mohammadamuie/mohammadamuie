@@ -88,14 +88,6 @@ I'm someone who is passionate about **ASP.NET CORE** and likes to **write code**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadamuie" alt="mohammadamuie" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadamuie&show_icons=true&locale=en&layout=compact" alt="mohammadamuie" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadamuie&show_icons=true&locale=en" alt="mohammadamuie" /></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadamuie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
