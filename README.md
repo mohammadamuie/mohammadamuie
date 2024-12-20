@@ -90,23 +90,12 @@ I'm someone who is passionate about **ASP.NET CORE** and likes to **write code**
 ![](https://komarev.com/ghpvc/?username=mohammadamuie&style=flat)
 
 
-**I'm a Night 🦉** 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-```text
-🌞 Morning                25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-🌆 Daytime                65 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-🌃 Evening                287 commits         ██████████████████░░░░░░░   70.00 % 
-🌙 Night                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-```
-📅 **I'm Most Productive on Wednesday** 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadamuie&show_icons=true&locale=en&layout=compact" alt="mohammadamuie" /></p>
 
-```text
-Monday                   66 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Tuesday                  80 commits          █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Wednesday                83 commits          █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Thursday                 73 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Friday                   59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Saturday                 30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadamuie&show_icons=true&locale=en" alt="mohammadamuie" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadamuie&" alt="mohammadamuie" /></p>
