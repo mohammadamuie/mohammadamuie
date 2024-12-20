@@ -21,8 +21,15 @@ I'm someone who is passionate about **ASP.NET CORE** and likes to **write code**
 
 <br>
 <h1> ASP.NET CORE... C#</h1>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mohammadamuie/count.svg?"  />
+</div>
 
-<div align="center"><img src="WORM.svg"></div>
+###
+
+<img src="https://raw.githubusercontent.com/mohammadamuie/mohammadamuie/output/snake.svg" alt="Snake animation" />
+
+###
 
 <hr>  
 <br/>
