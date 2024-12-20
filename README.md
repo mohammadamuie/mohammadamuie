@@ -21,9 +21,7 @@ I'm someone who is passionate about **ASP.NET CORE** and likes to **write code**
 
 <br>
 <h1> ASP.NET CORE... C#</h1>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mohammadamuie/count.svg?"  />
-</div>
+
 
 ###
 
