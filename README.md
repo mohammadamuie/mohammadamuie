@@ -76,12 +76,7 @@ I'm someone who is passionate about **ASP.NET CORE** and likes to **write code**
       </a>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="48" height="48" alt="PostMan" />
-      </a>
-      <br>PostMan
-    </td>
+    
   </tr>
  
 </table>
@@ -90,7 +85,6 @@ I'm someone who is passionate about **ASP.NET CORE** and likes to **write code**
 ![](https://komarev.com/ghpvc/?username=mohammadamuie&style=flat)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadamuie&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadamuie" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadamuie" alt="mohammadamuie" /></a> </p>
 
@@ -103,4 +97,3 @@ I'm someone who is passionate about **ASP.NET CORE** and likes to **write code**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadamuie&show_icons=true&locale=en" alt="mohammadamuie" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadamuie&" alt="mohammadamuie" /></p>
