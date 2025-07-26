@@ -21,10 +21,12 @@
 
 ---
 
-### 👨‍💻 About Me
+<img align="left" src="https://orhun.dev/img/crow.png" width="150" alt="Crow Dev Logo" />
 
-I'm a passionate **Back-End Developer** who enjoys building scalable, clean, and maintainable APIs using **ASP.NET Core** and **C#**.  
-I care deeply about **clean architecture**, **SOLID principles**, and crafting robust business logic.
+### Hey there!
+
+I'm a backend developer passionate about **ASP.NET Core**, **clean code**, and writing scalable, production-grade APIs.  
+I love working with **C#**, building **real-world systems**, and exploring the .NET ecosystem.
 
 ---
 
