@@ -1,26 +1,36 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<img align="right" src="https://i.gifer.com/origin/c6/c60dc89b490b33b3041d64e0bfc34d48_w200.gif" width="200" alt="Coding GIF" />
+<p align="center">
+  <img src="https://i.gifer.com/origin/c6/c60dc89b490b33b3041d64e0bfc34d48_w200.gif" width="200" alt="Coding GIF" />
+</p>
 
-## 👨‍💻 Hello World :)
-
-
-[![Github](https://img.shields.io/badge/Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mohammadamuie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amuie-618300273/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mohammad_amuie/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohammadamuie2@gmail.com)
-
-
-<img align="left" src="https://orhun.dev/img/crow.png" width="150" alt="Crow Dev Logo" />
-
-### Hey there!
-
-I'm a backend developer passionate about **ASP.NET Core**, **clean code**, and writing scalable, production-grade APIs.  
-I love working with **C#**, building **real-world systems**, and exploring the .NET ecosystem.
+<p align="center">
+  <a href="https://github.com/mohammadamuie">
+    <img src="https://img.shields.io/badge/Github-000?style=flat&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-amuie-618300273/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mohammad_amuie/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:mohammadamuie2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 💻 Tech Stack
+<img align="right" src="https://orhun.dev/img/crow.png" width="140" alt="Crow Dev Logo" />
+
+## 👨‍💻 About Me
+
+I'm a backend developer passionate about **ASP.NET Core**, **clean code**, and building **scalable APIs**.  
+I enjoy working with **C#**, solving real-world problems, and crafting production-grade applications.
+
+---
+
+## 💻 Tech Stack
 
 <table>
   <tr>
@@ -53,16 +63,16 @@ I love working with **C#**, building **real-world systems**, and exploring the .
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadamuie&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadamuie&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
-</div>
+</p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohammadamuie&theme=dracula&column=4" />
@@ -70,7 +80,7 @@ I love working with **C#**, building **real-world systems**, and exploring the .
 
 ---
 
-### 👁️ Visitors
+## 👁️ Visitors
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammadamuie&style=flat" alt="profile views" />
