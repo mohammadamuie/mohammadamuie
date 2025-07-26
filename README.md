@@ -1,103 +1,77 @@
 ### Hi there 👋
 
+<img align="right" src="https://i.gifer.com/origin/c6/c60dc89b490b33b3041d64e0bfc34d48_w200.gif" width="200" alt="Coding GIF" />
 
-<img align='right' src='68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f63362f63363064633839623439306233336233303431643634653062666333346434385f773230302e676966.gif' width='200"'>
+## 👨‍💻 Hello World :)
 
-<h2 >HELLO WORLD :)</h2>
+[![Github](https://img.shields.io/badge/Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mohammadamuie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amuie-618300273/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mohammad_amuie/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohammadamuie2@gmail.com)
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mohammadamuie)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-amuie-618300273/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/mohammad_amuie/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mohammadamuie2@gmail.com)
+---
 
-&nbsp;
-<br>
-<img align="left" src="68747470733a2f2f6f7268756e2e6465762f696d672f63726f772e706e67.png">
+<img align="left" src="https://orhun.dev/img/crow.png" width="150" alt="Crow Dev Logo" />
 
-### Hey!
+### Hey there!
 
-I'm someone who is passionate about **ASP.NET CORE** and likes to **write code**.
+I'm a backend developer passionate about **ASP.NET Core**, **clean code**, and writing scalable, production-grade APIs.  
+I love working with **C#**, building **real-world systems**, and exploring the .NET ecosystem.
 
+---
 
-<br>
-<h1> ASP.NET CORE... C#</h1>
+### 💻 Tech Stack
 
-
-###
-
-<img src="/WORM.svg" alt="Snake animation" />
-
-###
-
-<hr>  
-<br/>
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#&nbsp;(Core)
+      <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/csharp-original.svg" width="48" alt="C#" /><br>C#
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html5" />
-      </a>
-      <br>html5
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" alt="HTML5" /><br>HTML5
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>css3
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" alt="CSS3" /><br>CSS3
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="48" height="48" alt="vuejs" />
-      </a>
-      <br>vuejs
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" /><br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="javascript" />
-      </a>
-      <br>javascript
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="48" alt="Vue.js" /><br>Vue.js
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://img.icons8.com/color/1x/microsoft-sql-server.png" width="48" height="48" alt="SQL" />
-      </a>
-      <br>SQL
+      <img src="https://img.icons8.com/color/1x/microsoft-sql-server.png" width="48" alt="SQL Server" /><br>SQL Server
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="48" height="48" alt=".NET" />
-      </a>
-      <br>.NET
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="48" alt=".NET Core" /><br>.NET Core
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
+      <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/bootstrap-plain.svg" width="48" alt="Bootstrap" /><br>Bootstrap
     </td>
-    
   </tr>
- 
 </table>
 
-<!--START_SECTION:waka-->
-![](https://komarev.com/ghpvc/?username=mohammadamuie&style=flat)
+---
 
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadamuie" alt="mohammadamuie" /></a> </p>
-
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadamuie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadamuie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadamuie&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadamuie&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
 </div>
 
-###
+---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadamuie&theme=dracula&column=4" />
+</p>
+
+---
+
+### 👁️ Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadamuie&style=flat" alt="profile views" />
+</p>
