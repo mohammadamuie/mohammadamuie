@@ -54,7 +54,7 @@ I love working with **C#**, building **real-world systems**, and exploring the .
 ---
 
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammadamuie&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
