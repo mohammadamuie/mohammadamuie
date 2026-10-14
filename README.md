@@ -9,7 +9,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mohammadamuie&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
 <img src="https://img.shields.io/github/followers/mohammadamuie?style=for-the-badge&logo=github&color=7c3aed" alt="followers" />
 
 </div>
