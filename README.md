@@ -1,14 +1,15 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohammad%20Amuie&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Full-Stack%20Developer&descSize=22&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohammad%20Amuie&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Full-Stack%20Developer&descSize=22&descAlignY=60" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Mohammad;ASP.NET+Core+%7C+C%23+%7C+Clean+Architecture;Building+scalable%2C+production-grade+systems;Turning+business+problems+into+code+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=mohammadamuie&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views" />
 <img src="https://img.shields.io/github/followers/mohammadamuie?style=for-the-badge&logo=github&color=7c3aed" alt="followers" />
 
 </div>
@@ -38,9 +39,9 @@ public class Mohammad : IDeveloper
 ```
 
 - 🔭 Building **real-world business web applications** (Persian / RTL friendly)
-- 🔌 Experienced in integrating **ERP (Holoo)**, **payment gateways (ZarinPal)** and **SMS providers**
+- 🔌 Integrating **ERP (Holoo)**, **payment gateways (ZarinPal)** and **SMS providers**
 - ⚡ Passionate about **performance, pagination, caching** and clean, maintainable code
-- 🌱 Always exploring the .NET ecosystem: EF Core, Minimal APIs, SignalR, Docker
+- 🌱 Exploring the .NET ecosystem: EF Core, Minimal APIs, SignalR, Docker
 - 📫 Reach me: **mohammadamuie2@gmail.com**
 
 ---
@@ -48,9 +49,7 @@ public class Mohammad : IDeveloper
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,vue,bootstrap,mssql,git,github,vscode,visualstudio&theme=dark&perline=12" alt="skills" />
-
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,vue,bootstrap,mssql,git,github,vscode,visualstudio&theme=dark&perline=12" alt="skills" />
 </div>
 
 <details>
@@ -66,6 +65,22 @@ public class Mohammad : IDeveloper
 | **Tools** | Git, GitHub, Visual Studio, VS Code, Postman, Swagger |
 
 </details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<!-- اسم ریپوها را با ریپوهای واقعی خودت عوض کن -->
+<a href="https://github.com/mohammadamuie/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamuie&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="project 1" />
+</a>
+<a href="https://github.com/mohammadamuie/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadamuie&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="project 2" />
+</a>
+
+</div>
 
 ---
 
@@ -87,23 +102,25 @@ public class Mohammad : IDeveloper
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://ghchart.rshah.org/7c3aed/mohammadamuie" alt="contribution chart" width="100%" />
-
+  <img src="https://ghchart.rshah.org/7c3aed/mohammadamuie" alt="contribution chart" width="100%" />
 </div>
 
 ---
 
-## 🏆 Achievements
+<!-- بعد از اجرای موفق Workflow، علامت‌های کامنت را بردار -->
+<!--
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadamuie&theme=tokyonight" alt="profile details" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammadamuie/mohammadamuie/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadamuie/mohammadamuie/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/mohammadamuie/mohammadamuie/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
-
+-->
 
 ## 🤝 Let's Connect
 
