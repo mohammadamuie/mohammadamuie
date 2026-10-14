@@ -89,7 +89,7 @@ public class Mohammad : IDeveloper
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadamuie&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="activity graph" width="100%" />
+<img src="https://ghchart.rshah.org/7c3aed/mohammadamuie" alt="contribution chart" width="100%" />
 
 </div>
 
@@ -99,7 +99,7 @@ public class Mohammad : IDeveloper
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mohammadamuie&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadamuie&theme=tokyonight" alt="profile details" />
 
 </div>
 
